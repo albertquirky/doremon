@@ -1,0 +1,14 @@
+{
+  "name": "DoReMon",
+  "version": "1.0.0",
+  "description": "this is a thing",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gfg/gfg.git" //sample git repo url
+  },
+  "bugs": {
+    "url": "https://github.com/gfg/gfg/issues"
+  },
+  "homepage": "https://github.com/gfg/gfg#readme"
+}
